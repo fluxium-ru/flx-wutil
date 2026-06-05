@@ -1,0 +1,16 @@
+{
+  "name": "flx-wspam",
+  "version": "1.0.0",
+  "description": "A discord webhook spammer built on TypeScript",
+  "license": "ISC",
+  "author": "fluxium.ru",
+  "type": "commonjs",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc && node dist/main.js"
+  },
+  "dependencies": {
+    "typescript": "^6.0.3"
+  }
+}
